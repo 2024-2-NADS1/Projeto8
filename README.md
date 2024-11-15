@@ -18,8 +18,15 @@ O objetivo do projeto é assegurar que a água esteja dentro dos padrões de pot
 
 ![Imagem do WhatsApp de 2024-11-15 à(s) 12 07 46_54cdb279](https://github.com/user-attachments/assets/edae4a93-289c-4c92-8b22-4b54f13fbdbd)
 
+<div align="center">
+
 ### Feito por:
- <a href="https://www.linkedin.com/in/luanpires-silva/">Luan Pires</a>, <a href="https://www.linkedin.com/in/lucas-lucena-361824l/">Lucas Lucena</a>, <a href="https://www.linkedin.com/in/pedro-augusto-da-silva-macedo-9a0200187/">Pedro Macedo</a>, <a href="https://www.linkedin.com/in/luiz-eduardo-souza-rocha-09aab2321/">Luiz Rocha</a>
+<a href="https://www.linkedin.com/in/luanpires-silva/">Luan Pires</a>, 
+<a href="https://www.linkedin.com/in/lucas-lucena-361824l/">Lucas Lucena</a>, 
+<a href="https://www.linkedin.com/in/pedro-augusto-da-silva-macedo-9a0200187/">Pedro Macedo</a>, 
+<a href="https://www.linkedin.com/in/luiz-eduardo-souza-rocha-09aab2321/">Luiz Rocha</a>
+
+</div>
 
 
 
