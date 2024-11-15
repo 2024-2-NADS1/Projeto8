@@ -36,12 +36,6 @@ O sistema é ideal para ser implantado em comunidades, indústrias, e instalaç�
 
 ![ods](https://github.com/2024-1-NADS1-A/Projeto9/blob/main/imagens/ODS.jpg)
 
-## 🌍 ODS
-
-</div>
-
-- ``ODS 6 e 14``
-
 
 ## 🛠 Estrutura de pastas
 
