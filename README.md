@@ -151,9 +151,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🎓 Referências
 
-1. 
-2.
-3. 
-4.
-5. 
-6. 
+- https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/plano-de-seguranca-da-agua
+- https://bvsms.saude.gov.br/bvs/publicacoes/diretriz_nacional_plano_amostragem_agua.pdf
+- https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia-ambiental/guia-de-inspecao-sanitaria-abastecimento-de-agua-para-cosumo-humano
