@@ -154,3 +154,4 @@ Há também 4 pastas que seguem da seguinte forma:
 - https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/plano-de-seguranca-da-agua
 - https://bvsms.saude.gov.br/bvs/publicacoes/diretriz_nacional_plano_amostragem_agua.pdf
 - https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia-ambiental/guia-de-inspecao-sanitaria-abastecimento-de-agua-para-cosumo-humano
+- https://www.scielosp.org/article/ress/2022.v31n3/e20211095/
