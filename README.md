@@ -29,10 +29,8 @@ O objetivo do projeto é assegurar que a água esteja dentro dos padrões de pot
 </div>
 
 
-
  O sistema utiliza sensores inteligentes conectados a um microcontrolador para coletar dados como pH, turbidez, temperatura, condutividade elétrica e presença de contaminantes na água. Esses dados são transmitidos para uma plataforma em nuvem onde são analisados e armazenados. A solução fornece alertas automáticos em casos de contaminação ou condições inadequadas para o consumo, permitindo uma intervenção rápida. O projeto utiliza sensores IoT para medir parâmetros críticos da água, como pH, turbidez, temperatura, cloro residual e condutividade elétrica. Esses sensores são conectados a um microcontrolador que coleta os dados e os envia para uma plataforma na nuvem para análise e armazenamento. O sistema alerta os usuários caso a água não esteja potável, fornecendo dados detalhados sobre as condições da água.
 O sistema é ideal para ser implantado em comunidades, indústrias, e instalações que necessitam de monitoramento contínuo da qualidade da água, como estações de tratamento e redes de abastecimento.
-<div align="center">
 
 ![ods](https://github.com/2024-1-NADS1-A/Projeto9/blob/main/imagens/ODS.jpg)
 
