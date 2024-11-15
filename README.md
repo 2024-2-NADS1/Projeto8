@@ -71,7 +71,8 @@ Há também 4 pastas que seguem da seguinte forma:
 
 
 ## 🛠 Materiais utilizados.
-![image](https://github.com/user-attachments/assets/b7d1debe-fba1-4727-889b-dd0fab4178bb)
+![image](https://github.com/user-attachments/assets/3f632b3d-d4c5-4bf6-8611-67169230293b)
+
 
  - Arduino IDE
  - ESP32
