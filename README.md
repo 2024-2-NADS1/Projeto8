@@ -13,9 +13,11 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno </a>.
 
 ## ✏️ Descrição
-Desenvolver um sistema baseado em Internet das Coisas (IoT) capaz de monitorar e identificar a qualidade da água em tempo real, garantindo que ela seja segura para consumo humano e promovendo a saúde pública.
+O Sistema de Identificação de Água Potável é uma solução baseada em Internet das Coisas (IoT) projetada para monitorar e analisar a qualidade da água em tempo real. O sistema utiliza sensores inteligentes para coletar dados críticos, como pH, turbidez, temperatura, condutividade elétrica e a presença de contaminantes químicos ou biológicos. Esses dados são transmitidos para uma plataforma na nuvem, onde são analisados e disponibilizados para os usuários por meio de um aplicativo ou dashboard web.
+O objetivo do projeto é assegurar que a água esteja dentro dos padrões de potabilidade recomendados, promovendo saúde pública e o uso sustentável dos recursos hídricos.
 
-(![Imagem do WhatsApp de 2024-11-15 à(s) 12 07 46_54cdb279](https://github.com/user-attachments/assets/edae4a93-289c-4c92-8b22-4b54f13fbdbd)
+![Imagem do WhatsApp de 2024-11-15 à(s) 12 07 46_54cdb279](https://github.com/user-attachments/assets/edae4a93-289c-4c92-8b22-4b54f13fbdbd)
+![ods](https://github.com/2024-1-NADS1-A/Projeto9/blob/main/imagens/ODS.jpg)
 
  O sistema utiliza sensores inteligentes conectados a um microcontrolador para coletar dados como pH, turbidez, temperatura, condutividade elétrica e presença de contaminantes na água. Esses dados são transmitidos para uma plataforma em nuvem onde são analisados e armazenados. A solução fornece alertas automáticos em casos de contaminação ou condições inadequadas para o consumo, permitindo uma intervenção rápida. O projeto utiliza sensores IoT para medir parâmetros críticos da água, como pH, turbidez, temperatura, cloro residual e condutividade elétrica. Esses sensores são conectados a um microcontrolador que coleta os dados e os envia para uma plataforma na nuvem para análise e armazenamento. O sistema alerta os usuários caso a água não esteja potável, fornecendo dados detalhados sobre as condições da água.
 
